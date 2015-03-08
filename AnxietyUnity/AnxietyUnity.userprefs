@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\ICSports_oculus\ICSports_oculus\Assets\LogoController.cs">
+    <Files>
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\HoverLogo.cs" Line="1" Column="1" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\LogoController.cs" Line="22" Column="4" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\Plugins\Server.cs" Line="1" Column="1" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\Scripts\Panelcontroller.cs" Line="109" Column="18" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\LogoScript.cs" Line="43" Column="71" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\Scripts\Panel.cs" Line="1" Column="1" />
+      <File FileName="..\..\ICSports_oculus\ICSports_oculus\Assets\MenuButtons.cs" Line="34" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
